@@ -6,7 +6,7 @@
 ### About me
 Sou estudante de qualificação em programação front-end no projeto Rio Pomba Valley, realizado pela Energisa, em parceria com o Educação Livre e SenaiMG.
 
-(https://www.gifcen.com/wp-content/uploads/2022/04/cat-gif-9.gif)
+<https://www.gifcen.com/wp-content/uploads/2022/04/cat-gif-9.gif>
 
 <!--
 **januholmes/januholmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

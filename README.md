@@ -3,9 +3,8 @@
 # Hi, I'm Fagner! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/januholmes)](https://github.com/januholmes)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janu%C3%A1riaholmes//)](https://www.linkedin.com/in/janu%C3%A1riaholmes/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janu%C3%A1riaholmes//)](https://www.linkedin.com/in/fagnerpsantos/)
 
 ### About me
 Sou estudante de qualificação em programação front-end no projeto Rio Pomba Valley, realizado pela @energisa (https://www.energisa.com.br/), em parceria com @edulivre (https://www.edulivre.org.br/) e @senaimg (https://www.senaimg.com.br/).

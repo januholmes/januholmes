@@ -5,7 +5,7 @@
 [![Tumblr Badge](https://img.shields.io/badge/-Tumblr-000?style=flat-square&logo=Tumblr&logoColor=white&link=https://januholmes.tumblr.com/)](https://januholmes.tumblr.com/)
 
 ### About me
-Sou estudante de qualificação em programação front-end no projeto Rio Pomba Valley, realizado pela Energisa, em parceria com o Educação Livre e SenaiMG.
+Moro em Cataguases, sou formada em Cinema e Audiovisual pela UFES e no momento sou estudante de qualificação em programação front-end no projeto Rio Pomba Valley, realizado pela Energisa, em parceria com o Educação Livre e Senai MG.
 
 <img align="middle" width="200" src="https://c.tenor.com/NwY5ppxLs_oAAAAd/kitten-keybo.gif"/>
 

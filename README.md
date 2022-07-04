@@ -1,4 +1,4 @@
-## Olá, me chamo Januária! 👋
+## Prazer, me chamo Januária! 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/januholmes)](https://github.com/januholmes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janu%C3%A1riaholmes//)](https://www.linkedin.com/in/janu%C3%A1riaholmes/)
@@ -6,7 +6,7 @@
 ### About me
 Sou estudante de qualificação em programação front-end no projeto Rio Pomba Valley, realizado pela Energisa, em parceria com o Educação Livre e SenaiMG.
 
-<img align="center" width="200" src="https://c.tenor.com/NwY5ppxLs_oAAAAd/kitten-keybo.gif"/>
+<img align="middle" width="200" src="https://c.tenor.com/NwY5ppxLs_oAAAAd/kitten-keybo.gif"/>
 
 <!--
 **januholmes/januholmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/januholmes)](https://github.com/januholmes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janu%C3%A1riaholmes//)](https://www.linkedin.com/in/janu%C3%A1riaholmes/)
-[![Tumblr Badge](https://img.shields.io/badge/-Tumblr-000?style=flat-square&logo=Tumblr&logoColor=white&link=https://januholmes.tumblr.com/)](https://januholmes.tumblr.com/)
+[![Tumblr Badge](https://img.shields.io/badge/-Tumblr-000?style=flat-square&logo=Tumblr&logoColor=white&link=https://januaria.tumblr.com/)](https://https://januaria.tumblr.com/)
 
 ### About me
 Moro em Cataguases, sou formada em Cinema e Audiovisual pela UFES e no momento sou estudante de qualificação em programação front-end no projeto Rio Pomba Valley, realizado pela Energisa, em parceria com o Educação Livre e Senai MG.
